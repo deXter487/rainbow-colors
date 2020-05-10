@@ -3,6 +3,7 @@ Pink
 Orange
 Green
 Yellow 
+Blue 
 
 
 This file contains colors detail.
