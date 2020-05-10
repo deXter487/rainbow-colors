@@ -1,0 +1,5 @@
+Purple
+Pink
+Orange
+
+This file contains colors detail.
