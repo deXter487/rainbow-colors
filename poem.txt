@@ -1,5 +1,6 @@
 Purple
 Pink
 Orange
+Green
 
 This file contains colors detail.
