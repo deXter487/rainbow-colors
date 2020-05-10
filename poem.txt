@@ -2,5 +2,7 @@ Purple
 Pink
 Orange
 Green
+Yellow 
+
 
 This file contains colors detail.
