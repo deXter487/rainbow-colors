@@ -1,4 +1,4 @@
-Unicorn
+Unicorn and Ponies
 Purple
 Pink
 Orange
@@ -7,6 +7,8 @@ red
 indigo
 Yellow 
 Blue 
+Poney
 Unicorn
 
 This file contains colors detail.
+Ponies
