@@ -1,9 +1,10 @@
+Unicorn
 Purple
 Pink
 Orange
 Green
 Yellow 
 Blue 
-
+Unicorn
 
 This file contains colors detail.
